@@ -2,6 +2,7 @@
 ## P5 - Final Prototype
 
 Team Members: [insert names here]
+
 GitHub usernames for each team member: [insert github ids here]
 
 Other releavant details about your repository below:
